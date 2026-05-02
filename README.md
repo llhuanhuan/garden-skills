@@ -26,14 +26,30 @@
 
 ## What's inside
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%"><a href="#web-video-presentation"><strong>web-video-presentation</strong></a><br/>Web video / presentation</td>
-<td width="50%"><a href="#web-design-engineer"><strong>web-design-engineer</strong></a><br/>Design / frontend</td>
+<td width="50%" valign="top">
+<a href="#web-video-presentation"><img src="./dist/imgs/web-video-presentation-skill.png" alt="Web Video Presentation Skill" width="100%"></a>
+<br/><a href="#web-video-presentation"><strong>web-video-presentation</strong></a>
+<br/><sub>Web video / presentation</sub>
+</td>
+<td width="50%" valign="top">
+<a href="#web-design-engineer"><img src="./dist/imgs/web-design-skill.png" alt="Web Design Skill" width="100%"></a>
+<br/><a href="#web-design-engineer"><strong>web-design-engineer</strong></a>
+<br/><sub>Design / frontend</sub>
+</td>
 </tr>
 <tr>
-<td width="50%"><a href="#gpt-image-2"><strong>gpt-image-2</strong></a><br/>Image generation / prompting</td>
-<td width="50%"><a href="#kb-retriever"><strong>kb-retriever</strong></a><br/>Local knowledge retrieval</td>
+<td width="50%" valign="top">
+<a href="#gpt-image-2"><img src="./dist/imgs/gpt-image-2-skill.png" alt="GPT Image 2 Skill" width="100%"></a>
+<br/><a href="#gpt-image-2"><strong>gpt-image-2</strong></a>
+<br/><sub>Image generation / prompting</sub>
+</td>
+<td width="50%" valign="top">
+<a href="#kb-retriever"><img src="./dist/imgs/kb-retriever-skill.png" alt="KB Retriever Skill" width="100%"></a>
+<br/><a href="#kb-retriever"><strong>kb-retriever</strong></a>
+<br/><sub>Local knowledge retrieval</sub>
+</td>
 </tr>
 </table>
 
