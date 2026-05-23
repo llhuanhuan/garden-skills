@@ -69,6 +69,7 @@
 - スクリプト、テーマ、アウトライン、実装モード、オプションの音声に対する厳格なコラボレーションチェックポイント
 - 録画中もステージをクリーンに保つ、ホバー時のみ表示される進捗コントロール
 - **23 種類のビルトインテーマ**（`midnight-press` から `swiss-ikb` まで）を備えたテーマトークンアーキテクチャ。エディトリアル、ターミナル、エンジニアリング、スイス国際主義など、各テーマが独自のデザインシグネチャを持つ
+- **プラガブル TTS**：プロバイダー非依存の音声ランナー。**2 つのビルトインプロバイダー**（MiniMax `mmx-cli` + curl 経由の OpenAI TTS）を同梱し、ElevenLabs / edge-tts / Azure / Google Cloud / macOS `say` 用のコピペ可能なスニペットも付属
 - 再利用可能なステージプリミティブと録画ガイダンスを備えた Vite + React + TypeScript プロジェクトのスキャフォールド
 
 リンク: [README](./skills/web-video-presentation/README.md) · [SKILL.md](./skills/web-video-presentation/SKILL.md) · <!-- DOWNLOAD:web-video-presentation:start -->[Download v1.2.0 .zip](https://github.com/ConardLi/garden-skills/releases/download/web-video-presentation-v1.2.0/web-video-presentation-1.2.0.zip)<!-- DOWNLOAD:web-video-presentation:end -->

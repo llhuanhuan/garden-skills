@@ -69,6 +69,7 @@ Highlights:
 - Hard collaboration checkpoints for script, theme, outline, implementation mode, and optional audio
 - Hidden hover-only progress controls so the stage stays clean while recording
 - Theme-token architecture with **23 built-in themes**, each with its own design signature — editorial, terminal, engineering, Swiss International, and more
+- **Pluggable TTS** — provider-agnostic audio runner; ships **two built-in providers** (MiniMax `mmx-cli` + OpenAI TTS via curl) plus a contract + ready-to-paste snippets for ElevenLabs / edge-tts / Azure / Google Cloud / macOS `say`
 - Scaffolded Vite + React + TypeScript project with reusable stage primitives and recording guidance
 
 Links: [README](./skills/web-video-presentation/README.md) · [SKILL.md](./skills/web-video-presentation/SKILL.md) · <!-- DOWNLOAD:web-video-presentation:start -->[Download v1.2.0 .zip](https://github.com/ConardLi/garden-skills/releases/download/web-video-presentation-v1.2.0/web-video-presentation-1.2.0.zip)<!-- DOWNLOAD:web-video-presentation:end -->
